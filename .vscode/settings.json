@@ -1,3 +1,0 @@
-{
-  "rust-analyzer.linkedProjects": ["./package-and-crates/restaurant/Cargo.toml"]
-}
